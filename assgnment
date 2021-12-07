@@ -1,0 +1,4 @@
+string = "1234abcd"
+def reverse1(x): 
+    return x[::-1]
+print(reverse1(string))
